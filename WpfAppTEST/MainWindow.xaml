@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfAppTEST"
         mc:Ignorable="d"
-        Title="Polistirolbeton Dom - Калькулятор расчет стоимости" Height="600" Width="800" 
+        Title="Генератор геометрических фигур" Height="600" Width="800" 
         ResizeMode="NoResize">
 
     <Window.Resources>
